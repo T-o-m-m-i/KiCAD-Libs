@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADXL345_brkout_1row
+D ADXL345 Accelerometer
+K adxl345 accelerometer acc
+$ENDCMP
+#
+$CMP RFM95
+D HopeRF RFM95 Lora Module
+K HopeRF RFM95 Lora Module
+$ENDCMP
+#
 #End Doc Library
